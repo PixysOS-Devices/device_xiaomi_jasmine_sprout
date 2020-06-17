@@ -23,9 +23,9 @@
 
 # inherit MI A2 lineage device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_jasmine_sprout.mk
+    $(LOCAL_DIR)/pixys_jasmine_sprout.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_jasmine_sprout-eng \
-    aosp_jasmine_sprout-userdebug \
-		aosp_jasmine_sprout-eng
+    pixys_jasmine_sprout-eng \
+    pixys_jasmine_sprout-userdebug \
+		pixys_jasmine_sprout-eng
